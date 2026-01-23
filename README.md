@@ -27,7 +27,7 @@
 |Week 1| 1/26 & 1/30 | Intro, SVD/PCA | Sec. 11.3 from MoMD; Sec. 3.4.1 from ESL |  |
 |Week 2| 2/2 & 2/6  | PCA & Start Recommender Systems | Sec. 14.5.1 from ESL, Sec. 11.2 from MoMD, & Chapter 9 from MoMD | [HW1 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
 |Week 3| 2/9 & 2/13 | Recommender Systems + PyTorch | Chapter 9 from MoMD | [HW2 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
-|Week 4| 2/16 & 2/20 | Neural Networks & PyTorch | Ch. 13 of PML; Ch. 6 of DL | Chapter 9 from MoMD [HW3 Due](https://github.com/codycarroll/advml_s26/tree/main/HW/) |
+|Week 4| 2/16 & 2/20 | Neural Networks & PyTorch | Ch. 13 of PML; Ch. 6 of DL; Chapter 9 from MoMD [HW3 Due](https://github.com/codycarroll/advml_s26/tree/main/HW/) |
 |Week 5| 2/23 & 2/27 |  AdaBoost + Gradient Boosting| Ch. 18 of PML; Ch. 10 of ESL| Quiz 2 + [HW4 Due](https://github.com/codycarroll/advml_s26/tree/main/HW/) 
 |Week 6| 3/2 & 3/6 (remote) | AdaBoost + Gradient Boosting| Ch. 18 of PML; Ch. 10 of ESL | [HW5 Due](https://github.com/codycarroll/advml_s26/tree/main/HW/) |
 |Week 7| 3/9 & 3/13 | Catch Up/Review Day + Final Project Presentations | - | Final Kaggle Standings (Mar 11 @ 11:59p) + Final Exam |
