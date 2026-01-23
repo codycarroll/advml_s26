@@ -55,9 +55,10 @@ As part of a team, the student will also carry out a machine learning project fr
 
 ## Course Content
 
-- Neural Networks
+
 - Dimension Reduction: SVD and PCA
-- Recommendation Systems: Collaborative Filtering, Matrix Factorization.
+- Recommendation Systems: Collaborative Filtering, Matrix Factorization
+- Neural Networks
 - Boosting: Adaboost, Gradient Boosting
 - PyTorch
 
