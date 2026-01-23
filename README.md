@@ -24,7 +24,6 @@
 *subject to change
 |Week | Dates | Topics | Reading | Notable Events |
 | :---:  | :---:  | :---:  | :---:  | :---: |
-
 |Week 1| 1/26 & 1/30 | Intro, SVD/PCA | Sec. 11.3 from MoMD; Sec. 3.4.1 from ESL |  |
 |Week 2| 2/2 & 2/6  | PCA & Start Recommender Systems | Sec. 14.5.1 from ESL, Sec. 11.2 from MoMD, & Chapter 9 from MoMD | [HW1 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
 |Week 3| 2/9 & 2/13 | Recommender Systems + PyTorch | Chapter 9 from MoMD | [HW2 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
