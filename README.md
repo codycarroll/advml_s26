@@ -5,7 +5,7 @@
 
 **Email**: cjcarroll [at] usfca [dot] edu
 
-**Class Time**: MF 10a-12p or 1p-3p in SFD 529
+**Class Time**: M 10a-12p or 1p-3p and F 10a-12p or 2:30-4:30p in SFD 154-156 
 
 **Office Hours**: Tuesdays 12p-1p on [Zoom](https://usfca.zoom.us/my/cody.carroll) & Thursdays 3:30p-4:30p in person (SFD 529) (subject to change during quiz weeks - watch the course slack!)
 
