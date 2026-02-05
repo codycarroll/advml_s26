@@ -7,7 +7,7 @@
 
 **Class Time**: M 10a-12p or 1p-3p and F 10a-12p or 2:30-4:30p in SFD 154-156 
 
-**Office Hours**: Tuesdays 11a-11:45a on [Zoom](https://usfca.zoom.us/my/cody.carroll) & Thursdays 3:30p-4:30p in person (SFD 608) (subject to change during quiz weeks - watch the course slack!)
+**Office Hours**: see program Google calendar!
 
 **Books**: 
  Pattern Recognition and Machine Learning. Bishop. [Link](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
